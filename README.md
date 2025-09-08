@@ -14,16 +14,6 @@ I'm a passionate software engineer fluent in the languages of Python, Javascript
 
 ---
 
-### Notable Projects
-
-- [roof-tk-config-default](https://github.com/RoofStudio/roof-tk-config-default)
-- [carloshallan.github.io](https://github.com/carloshallan/carloshallan.github.io)
-- [momo](https://github.com/CreativeOlympus/momo)
-- [co-poseidon](https://github.com/CreativeOlympus/co-poseidon)
-- [momo-web](https://github.com/carloshallan/momo-web)
-
----
-
 ### 🌐 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/carlos-hallan/)
