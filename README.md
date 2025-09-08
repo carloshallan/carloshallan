@@ -1,20 +1,20 @@
-# 👋 Hey there! I'm Carlos Hallan
+# Hey there! I'm Carlos Hallan
 
-## 🧑‍💻 Software Engineer | 🎬 Creative Technologist | ✍️ Portuguese Thriller Writer
+## Software Engineer | Creative Technologist | Portuguese Thriller Writer
 
 ---
 
-### 🌟 About Me
+### About Me
 
 I'm a passionate software engineer fluent in the languages of Python, Javascript/TypeScript, React/VueJS, Rust, and all things adjacent to creative problem-solving. By day, I architect digital solutions; by night, I craft thrillers in Portuguese that keep readers on the edge of their seats.
 
-- 🛠️ **Tech Stack:** Python · TypeScript · React · Vue · Rust · Creative Coding
-- ✒️ **Writer:** Published Portuguese thriller author, weaving suspenseful tales when I'm not building software (chblacksmith.com.br).
-- 🎨 **Creative Mind:** I love blending technology and art—building tools for creators, studios, and storytellers.
+- **Tech Stack:** Python · TypeScript · React · Vue · Rust · Creative Coding
+- **Writer:** Published Portuguese thriller author, weaving suspenseful tales when I'm not building software (chblacksmith.com.br).
+- **Creative Mind:** I love blending technology and art—building tools for creators, studios, and storytellers.
 
 ---
 
-### 📌 Notable Projects
+### Notable Projects
 
 - [roof-tk-config-default](https://github.com/RoofStudio/roof-tk-config-default)
 - [carloshallan.github.io](https://github.com/carloshallan/carloshallan.github.io)
